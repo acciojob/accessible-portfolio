@@ -6,12 +6,17 @@
  Let's re-do the Portfolio we made earlier and add aria- roles to different sections to make it more accessible.
  Following table contains role's name along with the tag there are supposed to be bind with.
  
-role        tag
-img        img
-heading        h1
-list        ul
-listitem        li
-navigation        nav
+`role        tag`
+
+`img        img`
+
+`heading        h1`
+
+`list        ul`
+
+`listitem        li`
+
+`navigation        nav`
 
 Bind all the tag with correct aria role and render them in the DOM.
 How to use it <a href='http://web-accessibility.carnegiemuseums.org/foundations/aria/'>click here.</a></li>
