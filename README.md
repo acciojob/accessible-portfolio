@@ -1,6 +1,7 @@
 # Accessible Portfolio
 
- ARIA roles
+ ARIA roles 
+ 
  ARIA is a set of attributes you can add to HTML elements that define ways to make web content and applications accessible to users with disabilities who use assistive technologies (AT).
  
  Let's re-do the Portfolio we made earlier and add aria- roles to different sections to make it more accessible.
